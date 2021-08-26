@@ -1,0 +1,9 @@
+D:\Work\3DMaths\obj\Debug\3DMaths.csprojAssemblyReference.cache
+D:\Work\3DMaths\obj\Debug\3DMaths.csproj.CoreCompileInputs.cache
+D:\Work\3DMaths\bin\Debug\3DMaths.exe.config
+D:\Work\3DMaths\bin\Debug\3DMaths.exe
+D:\Work\3DMaths\bin\Debug\3DMaths.pdb
+D:\Work\3DMaths\obj\Debug\3DMaths.exe
+D:\Work\3DMaths\obj\Debug\3DMaths.pdb
+D:\Work\3DMaths\obj\Debug\_3DMaths.Main.resources
+D:\Work\3DMaths\obj\Debug\3DMaths.csproj.GenerateResource.cache
